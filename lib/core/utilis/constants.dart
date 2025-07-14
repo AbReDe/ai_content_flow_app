@@ -1,5 +1,5 @@
 final String imageanahtar =
-    'dasdasdadsa';
+    'kendi keyınız';
 final String url_bbc =
     'http://feeds.bbci.co.uk/news/technology/rss.xml';
 
